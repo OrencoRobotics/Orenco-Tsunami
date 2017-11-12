@@ -1,0 +1,46 @@
+Introduction
+
+Our name
+Portable Hydro electric Systems
+What brought us to this idea
+Team member names
+
+Problem
+
+Lack of electricity in the world
+current issues for local power generation today
+  Toxic
+  Environmental Impact
+  Not Child Friendly
+    Power / Weight / Exposure problems
+  Expensive
+    Batteries are $50-$100 for normal lead acid
+    Deep cycle batteries can be more expensive
+    Hard to ship
+  Heavy (batteries) less portable
+    Lead Acid batteries have lead
+  Availability - HOMEWORK TODO
+
+
+Our Solution
+
+  Access to water
+  Portable?
+  Is it heavy?
+  Scalable
+  eco friendly
+  child friendly
+  Upgradeable
+  Maintainable
+    HOMEWORK TODO - Parts are readily available?
+
+  Quality for water can vary
+    Reclaimed Water
+    Dirty Water
+
+World after our solution
+
+  More people in the world will have electricity
+  reducing dependance on toxic substances
+  We would be using water that would be unused or just setting there.
+  Reduce water waste
