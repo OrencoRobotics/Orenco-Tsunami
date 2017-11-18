@@ -1,7 +1,7 @@
 P1: Hello! We are Orenco tsunami
 (everybody introduces themselves with their first names)
 P2: our idea is a portable hydroelectric system
-P3: we were origanlly interested in hydroelectric dams which brought us to thinking about small-scale hydroelectric systems
+P3: we were originally interested in hydroelectric dams which brought us to thinking about small-scale hydroelectric systems
 
 P4: The problem we worked to solve is the lack of electricity in other countries across the world.
 P5: Some issues the current solutions face is toxicity, not child friendly, expensive, and hard to move because it is big and made of lead.
@@ -11,4 +11,18 @@ P1: Our solution is eco friendly because it doesn't use materials that harm the 
 P2: It can also be used with reclaimed water, such as water you have used to wash your hands or body.
 P3: This system is scalable too. You can easily find larger or smaller parts of the pump.
 P4: Our solution is also maintainable because it is easy to tell what went wrong (if something does go wrong)
-P5:
+P5: 
+
+
+P1: Today, there are several places in the world that don't have access to reliable power. Places like, India and Africa have limited access. Other places, like Puerto Rico, Texas and Florida are suffering from damaged electrical grids.
+P2: In some of these places they share power to stretch a limited resources by timing use of appliances.
+P3: In other parts of the world they use alternate power including solar panels and lead acid batteries.
+P4: Some of these solutions don't provide reliable power at all times of day. Other solutions, like the use of lead acid batteries, introduce toxins into the environment.
+P5: Other solutions in use today may be difficult to move, maintain, or provide less than reliable energy.
+P6: Our team looked at utilizing water to find a source of reliable and clean power.
+
+P1: Our solution provides people electricity in places where they might not have access using solar systems and gravity fed pumps.
+P2: During the day, solar panels are used to power the pump the push water into an elevated tank.
+P3: During the evening, the water in the elevated tank is allowed to flow back though the hydroelectric pump to provide clean energy that was stored during the day.
+P4: During our research we priced the parts needed for the our system. The basic components include, a hydroelectric pump, tubing, a solar panel, and two reservoirs. Our team estimated a small installation would cost TODO FIND LARGER PUMPS $36, $48, $250 , $150, $48, 
+
