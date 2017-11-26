@@ -1,174 +1,38 @@
-P1: Hello! We are Orenco tsunami
+P1: Hello! We are Orenco Tsunami
 (everybody introduces themselves with their first names)
-P2: our idea is a portable hydroelectric pump system. We were originally interested in hydroelectric dams which brought us to think about small-scale hydroelectric systems
 
-P3: The problem we worked to solve is the lack of electricity in rule areas of other countries across the world that don’t have access to reliable power. Places like, India and Sub-Saharan Africa have limited access. **Other places, like Puerto Rico, Texas and Florida are suffering from damaged electrical grids.**
-P4: In some of these places people share power to stretch limited resources by timing use of appliances. In other parts of the world they use alternate power including solar panels and lead acid batteries.
-P5: Some of these solutions don’t provide reliable power at all times of day. Other solutions, like the use of lead acid batteries, introduce toxins into the environment. These solutions may be difficult to move, maintain, or provide less than reliable energy. Our team looked at utilizing water to find a source of reliable and clean power.
+P2: Our idea is a portable hydroelectric pump system. We were originally interested in hydroelectric dams which brought us to think about small-scale hydroelectric systems and their potential application around the world.
 
-P6: Our solution is eco friendly because it doesn’t use materials that harm the environment and provides people electricity in places where they might not have access to power by using solar panels and gravity fed pumps.
-P1: Our system has 2 storage tanks for water and a hydroelectric pump.  Water is stored in an elevated tank and flows through the pump to the lower tank to generate power at night. During the day, a solar panel will pump the water back up to the upper tank.
+P3: The problem we worked to solve is the lack of electricity in rural areas of other countries across the world that don’t have access to reliable power. Large swaths of India and Sub-Saharan Africa have limited access. In a Washington Post article posted in 2015, a World Bank study declared that 1.3 billion people in these regions were living without power.  More recently, places like Puerto Rico, Haiti, Texas, and Florida are suffering from damaged electrical grids resulting from natural disasters.
+
+P4: In some of these places people share power to stretch limited resources by timing use of appliances. In other parts of the world they use alternative power sources including solar panels and lead acid batteries.
+
+P5: Some of these solutions, however, don’t provide reliable power at all times of day. Other solutions, like the use of lead acid batteries, introduce toxins into the environment. Further, these solutions may be difficult to move, maintain, or provide less than reliable energy. Our team looked at utilizing water to find a source of reliable and clean power storage.
+
+P2: After looking at the state of the world today and careful consideration we finally had our waterSHED moment.
+
+P1: Our system has 2 storage tanks for water and a hydroelectric pump.  Water is stored in an elevated tank and flows through the gravity fed pump to the lower tank to generate power at night. During the day, a solar panel will power the pump to return the water back up to the upper tank.
+
+P6: Our solution is eco-friendly because it doesn’t use materials that harm the environment and provides people electricity in places where they might not have access to power by using solar panels and gravity fed pumps.
+
 P2: This system can be used with reclaimed water, such as water you have used to wash your hands or body.
-P3: We have created a hydroelectric system that can be scaled to be used for one house or multiple houses. You can easily find larger or smaller pumps.
-P4: Our system is also maintainable.
-P5:
 
-P6: During our research we priced the parts needed for the our system. The basic components include, a hydroelectric pump, tubing, a solar panel, and two reservoirs. Our team estimated a small installation would cost TODO FIND LARGER PUMPS $36, $48, $250 , $150, $48,
+P3: We've conceptualized a hydroelectric system that can be scaled for use with one or multiple houses. Water tanks and pumps can be added or removed to adjust capacity.
 
-~~~~START OF IMPROV TRANSCRIPT 1~~~~~
+P6: During our research we priced the parts needed for the our system. The basic components include, a hydroelectric pump, tubing, a solar panel, and two reservoirs. Our team estimated a small installation would cost $220.
 
-Hi, I’m Penn of Orenco Tsumanmi, this is Keala, Izabel, Carmen, Prithu, Jackson and Vikram.
+P1: The most expensive components were the water tanks. Our team's prototype uses large plastic rain barrels though any large tank could be used. Each tank costs approximately $50.
 
-The problem that we’re trying to solve is providing electricity to places in the world where access is limited. For example in places like Texas or Puerto Rico where they’ve had storms there is a sever shortage of power.
+P2: One of the key benefits to rain barrels is that they are relatively inexpensive, easily modified, and nearly indestructible.
 
-How it works is there is a tank and it goes through, um.
+P4: Also, because our system is simple, maintenance needs are minimal and inexpensive.
 
-There is a reservoir at the top and during the day a solar powered pump pumps water up the pipe. Then at night
+P5: The benefits of an always available power source have positive implications for education, hygiene, and safety.
 
-it goes through the pump electrical powered
+P6: Children in villages that use our solution will have more time to study in the evening following their daily chores which usually prevent them from pursuing their studies.
 
+P5: Additionally, lighting at night means that those without power can see at night and protect themselves.
 
-Currently, people are using solutions that are inefficient or toxic.
+P4: We believe the system we have conceptualized is less flawed than the current solutions and has the potential to help countless people who need power today.
 
-Lead Acid Batteries are not eco friendly.
-
-So we bring to you the miniaturized hydroelectric plant.
-
-The world is better with our solution because it is eco friendly.
-
-It also uses water and sunlight, two renewable resources that will not generate any CO2 when it’s running.
-
-You can use dirty water with the pump and it [the water] doesn’t need any cleaning.
-
-And it’s easily maintainable and you can add a battery for longer term power storage.
-
-The pieces are replaceable.
-
-And, the parts are easy to find in any nearby hardware store.
-
-We considered using a small pump but that didn’t work (from our tests) so we’ll need to use a larger pump because the small pump didn’t run an LED pipe.
-
-These devices [can be scaled to support] a single household or a larger community.
-
-Instead of using a large one you could use many different pumps and connect them [as a single source] to one [load]/thing.
-
-You can even use this to power your neighbors if they are without the solution.
-
-You can also share the solution.
-
-Spread the word, the new pump is out now.
-
-~~~~START OF IMPROV TRANSCRIPT 2~~~~~
-
-Hi, we’re Orenco Tsunami. I’m Penn and this is Vikram, Prithu, Izabel, Carmen, Keala, and Jackson.
-
-We thought of hydroelectric dams and then we thought of the people who don’t have access to electricity to we decided to make a portable system that would help people in other places have electricity.
-
-Some of the current problems of other solutions that people have focus on the lead acid battery in that it’s not eco friendly, it’s not child friendly, and it’s not portable.
-
-People who need electricity is Florida, Texas, and Puerto Rico.
-
-And parts of the middle east. Don’t forget Africa.
-
-Our solution aims to fix all of those problems. We happily present to you the miniaturized hydroelectric plant.
-
-We’re using solar power for our pumps to pump the water to a stoarage tank.
-
-You can use recycled water. It doesn’t have to have pure water so it’s good in that way too.
-
-Our pump is gravity fed.
-
-To activate the solar panel you’ll need the sun. The sun will provide the energy to power your devices and stuff.
-
-And it will help places without electricity. And we should call it the super pump.
-
-Our solution is portable, non-toxic, eco friendly, lightweight, [easily maintainable], and you can operate it with lots of other installations such as a battery.
-
-We can also use rain barrels (inaudible) to collect water as a constant source of power.
-
-We choose the rain barrels because they are found in a lot of places so they’re easy to get.
-
-The pump has a solar panel to pump the water up to the storage tank in the daytime and at night gravity fed pumps can generate the stored power.
-
-~~~~START OF IMPROV TRANSCRIPT 3~~~~~
-
-Hello we’re Orenco Tsunami and these are my teammates Jackson, Izabel, Penn, Prithu, Carmen, and Vikram (speaker was Keala)
-
-The basic problem that we’re trying to solve is basically the world without electricity.
-
-Some locations that are included are Texas (due to the hurricane), Florida (also due to a hurricane), and Puerto Rico. These three locations along with Africa and the Middle East are currently having major deficiencies of their power.
-
-Some current solutions are led acid batteries and solar panels.
-
-At the top there is a tank and the water goes through
-
-The solution is using a solar panel to provide them with energy.
-
-The solution will use a solar panel to pump the water in the daytime and at night (water does through the gravity fed pump).
-
-The solution is a, eco friendly, b, child friendly, and c, easily maintainable.
-
-Because our system does away with the lead acid battery which pollutes the environment it is eco friendly.
-
-The sun generates the solar pane.
-
-The solar power powers the pump to push water to the storage tank and at night flows back through the pump which generates electricity instead of using it.
-
-This system is very scalable so that you can replace pumps with bigger pumps and bigger pipes too.
-
-It is very maintainable and won’t harm your child like a lead acid battery.
-
-You can use this to power yourself, power your neighbors or even power your entire community.
-
-There are many good things about this solution.
-
-You can either use one pump to share power or multiple pumps to generate something big.
-
-And that’s our solution to fix the world as it is today.
-
-~~~~START OF IMPROV TRANSCRIPT 4~~~~~
-
-Hello, I am Vikram and these are my friends Jackson, Prithu, Keala, Izabel, Carmen, and Penn.
-
-And we are the Orenco Tsunami.
-
-We were thinking about Hydroelectric dams and the lack of electricity in the world.
-
-In large parts of the world there are people who need it and (she lists places we stated many times before)
-
-Our solution is a pump that uses water to generate electricity.
-
-It generates power
-
-The current solution has many flaws.
-
-Sometimes a lead acid battery...
-
-Another flaw with lead acid batteries is that they are toxic and not eco-friendly.
-
-Solar panel are helpful to provide people with energy.
-
-The lead acid battery is not very portable.
-
-~~~~START OF IMPROV TRANSCRIPT 5~~~~~
-
-The problem in the world is that we do not have electrify in several places like parts of South America, parts of Africa, parts of the Middle East, and other parts of the world.
-
-Our solution is to make a hydro electric pump.
-
-Some of the other solutions that people have had are solar panel but the solar panels are really big and not easily portable.
-
-And sometimes solar panels are so big {inaudible} on your house.
-
-Our solution has a pump a hose and a reservoir
-
-another flaw of the solar panel is that it doesn’t work at night.
-Our solution will have a solar panel for the day and then stored energy will generate electricity at night.
-
-Stored energy comes from solar panels.
-
-You don’t have to use fresh water for our system, you can use water that you collect after washing your hands.
-
-Our systems is very scalable so you can switch out parts easily. There are many good parts of our solutions.
-
-It is eco friendly and maintainable.... (descends into fits of uncontrollable laughter.)
+All: Thank you.
