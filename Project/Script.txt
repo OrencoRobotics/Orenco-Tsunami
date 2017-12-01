@@ -1,40 +1,46 @@
-P1: Hello! We are Orenco Tsunami
+Carmen: Hello! We are Orenco Tsunami
 (everybody introduces themselves with their first names)
 
-P2: Our idea is a portable hydroelectric pump system. We were originally interested in hydroelectric dams which brought us to think about small-scale hydroelectric systems and their potential application around the world.
+Vikram: Our idea is a portable hydroelectric pump system. We were originally interested in hydroelectric dams which brought us to think about small-scale hydroelectric systems and their potential application around the world.
 
-P3: The problem we worked to solve is the lack of electricity in rural areas of other countries across the world that don’t have access to reliable power. Large swaths of India and Sub-Saharan Africa have limited access.
+[Next Slide]
 
-P4: In a Washington Post article posted in 2015, a World Bank study declared that 1.3 billion people in these regions were living without power.  More recently, places like Puerto Rico, Haiti, Texas, and Florida are suffering from damaged electrical grids resulting from natural disasters.
+Prithu: The problem we worked to solve is the lack of electricity in rural areas of other countries across the world that don’t have access to reliable power. Large swaths of India and Sub-Saharan Africa have limited access.
 
-P5: In some of these places people share power to stretch limited resources by timing use of appliances. In other parts of the world they use alternative power sources including solar panels and lead acid batteries.
+Izabel: In a Washington Post article posted in 2015, a World Bank study declared that 1.3 billion people in these regions were living without power.  More recently, places like Puerto Rico, Haiti, Texas, and Florida are suffering from damaged electrical grids resulting from natural disasters.
 
-P6: Some of these solutions, however, don’t provide reliable power at all times of day. Other solutions, like the use of lead acid batteries, introduce toxins into the environment. Further, these solutions may be difficult to move, maintain, or provide less than reliable energy. Our team looked at utilizing water to find a source of reliable and clean power storage.
+Keala: In some of these places people share power to stretch limited resources by timing use of appliances. In other parts of the world they use alternative power sources including solar panels and lead acid batteries.
 
-P2: After looking at the state of the world today and careful consideration we finally had our waterSHED moment.
+Penn: Some of these solutions, however, don’t provide reliable power at all times of day. Other solutions, like the use of lead acid batteries, introduce toxins into the environment. Further, these solutions may be difficult to move, maintain, or provide less than reliable energy. Our team looked at utilizing water to find a source of reliable and clean power storage.
 
-P1: Our system has 2 storage tanks for water and a hydroelectric pump.  Water is stored in an elevated tank and flows through the gravity fed pump to the lower tank to generate power at night. During the day, a solar panel will power the pump to return the water back up to the upper tank.
+[Next Slide]
 
-P3: Our solution is eco-friendly because it doesn’t use materials that harm the environment and provides people electricity in places where they might not have access to power by using solar panels and gravity fed pumps.
+Vikram: After looking at the state of the world today and careful consideration we finally had our waterSHED moment.
 
-P4: This system can be used with reclaimed water, such as water you have used to wash your hands or body.
+Carmen: Our system has 2 storage tanks for water and a hydroelectric pump.  Water is stored in an elevated tank and flows through the gravity fed pump to the lower tank to generate power at night. During the day, a solar panel will power the pump to return the water back up to the upper tank.
 
-P6: We've conceptualized a hydroelectric system that can be scaled for use with one or multiple houses. Water tanks and pumps can be added or removed to adjust capacity.
+Prithu: Our solution is eco-friendly because it doesn’t use materials that harm the environment and provides people electricity in places where they might not have access to power by using solar panels and gravity fed pumps.
 
-P5: During our research we priced the parts needed for the our system. The basic components include, a hydroelectric pump, tubing, a solar panel, and two reservoirs. Our team estimated a small installation would cost $220.
+Izabel: This system can be used with reclaimed water, such as water you have used to wash your hands or body.
 
-P1: Our team's prototype uses large plastic rain barrels though any large tank could be used. Each tank costs approximately $50.
+Penn: We've conceptualized a hydroelectric system that can be scaled for use with one or multiple houses. Water tanks and pumps can be added or removed to adjust capacity.
 
-P2: One of the key benefits to rain barrels is that they are relatively inexpensive, easily modified, and nearly indestructible.
+Keala: During our research we priced the parts needed for the our system. The basic components include, a hydroelectric pump, tubing, a solar panel, and two reservoirs. Our team estimated a small installation would cost $220.
 
-P3: Also, because our system is simple, and uses readily available pumps and panels maintenance needs are minimal and inexpensive.
+Carmen: Our team's prototype uses large plastic rain barrels though any large tank could be used. Each tank costs approximately $50.
 
-P4: The benefits of an always available power source have positive implications for education, hygiene, and safety.
+Vikram: One of the key benefits to rain barrels is that they are relatively inexpensive, easily modified, and nearly indestructible.
 
-P5: Children in villages that use our solution will have more time to study in the evening following their daily chores which usually prevent them from pursuing their studies.
+Prithu: Also, because our system is simple, and uses readily available pumps and panels maintenance needs are minimal and inexpensive.
 
-P6: Additionally, lighting at night means that those without power can see at night and protect themselves.
+[Next Slide]
 
-P1: We believe the system we have conceptualized is less flawed than the current solutions and has the potential to help countless people who need power today.
+Izabel: The benefits of an always available power source have positive implications for education, hygiene, and safety.
+
+Keala: Children in villages that use our solution will have more time to study in the evening following their daily chores which usually prevent them from pursuing their studies.
+
+Penn: Additionally, lighting at night means that those without power can see at night and protect themselves.
+
+Carmen: We believe the system we have conceptualized is less flawed than the current solutions and has the potential to help countless people who need power today.
 
 All: Thank you.
