@@ -7,6 +7,10 @@ Vikram: Our idea is a portable hydroelectric pump system. We were originally int
 
 Prithu: The problem we worked to solve is the lack of electricity in rural areas of other countries across the world that don’t have access to reliable power. Large swaths of India and Sub-Saharan Africa have limited access.
 
+Jackson: Our team researched and discovered that nearly 20% of the population in Subsaharan Africa and 29% of the population Southeast Asia have limited supply to power sources.
+
+[Next Slide] 
+
 Izabel: In a Washington Post article posted in 2015, a World Bank study declared that 1.3 billion people in these regions were living without power.  More recently, places like Puerto Rico, Haiti, Texas, and Florida are suffering from damaged electrical grids resulting from natural disasters.
 
 Keala: In some of these places people share power to stretch limited resources by timing use of appliances. In other parts of the world they use alternative power sources including solar panels and lead acid batteries.
@@ -17,7 +21,9 @@ Penn: Some of these solutions, however, don’t provide reliable power at all ti
 
 Vikram: After looking at the state of the world today and careful consideration we finally had our waterSHED moment.
 
-Carmen: Our system has 2 storage tanks for water and a hydroelectric pump.  Water is stored in an elevated tank and flows through the gravity fed pump to the lower tank to generate power at night. During the day, a solar panel will power the pump to return the water back up to the upper tank.
+Carmen: Our system has 2 storage tanks for water and a hydroelectric pump.  Water is stored in an elevated tank and flows through the gravity fed pump to the lower tank to generate power at night.
+
+Jackson: During the day, a solar panel will power the pump to return the water back up to the upper tank.
 
 Prithu: Our solution is eco-friendly because it doesn’t use materials that harm the environment and provides people electricity in places where they might not have access to power by using solar panels and gravity fed pumps.
 
@@ -25,11 +31,11 @@ Izabel: This system can be used with reclaimed water, such as water you have use
 
 [Next Slide]
 
-Penn: We've conceptualized a hydroelectric system that can be scaled for use with one or multiple houses. Water tanks and pumps can be added or removed to adjust capacity.
+Penn: We’ve conceptualized a hydroelectric system that can be scaled for use with one or multiple houses. Water tanks and pumps can be added or removed to adjust capacity.
 
 Keala: During our research we priced the parts needed for the our system. The basic components include, a hydroelectric pump, tubing, a solar panel, and two reservoirs. Our team estimated a small installation would cost $220.
 
-Carmen: Our team's prototype uses large plastic rain barrels though any large tank could be used. Each tank costs approximately $50.
+Carmen: Our team’s prototype uses large plastic rain barrels though any large tank could be used. Each tank costs approximately $50.
 
 Vikram: One of the key benefits to rain barrels is that they are relatively inexpensive, easily modified, and nearly indestructible.
 
