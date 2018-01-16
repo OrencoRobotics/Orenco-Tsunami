@@ -1,0 +1,60 @@
+Executive Summary			
+
+Our team’s overall approach to our robot design was KISS - Keep it Simple and Sturdy. With minimal attachments to our robot we accomplished seven missions in total. To achieve this goal we programmed our robot with calculations for distance and also used the motors that were the most accurate to are team to drive straight lines .We used jigs to improve reliability and repeatability. To be productive, we split into sub groups to ‘’divide and conquer ‘’ our work.
+
+Notes
+
+Overall Approach
+We installed a dog gear system with a modular harness to enable the team to switch attachments quickly.
+We use the Mindstorm brick to run our programs.
+We used a caster wheel for the rear of the robot to enable pivots. 
+We use the forklift to do fountain and Flower.
+We used comments to makes code readable. 
+We changed from our touch sensor to ultrasonic sensor.
+We tried the gyro Sensor.
+We tried to minimize the times we come back to base.
+We use a minimal number of jigs.
+We return to base after push missions.
+We modified the side brackets to allow access to the USB port.
+We used sources like BuilderDude35 to get programming and mechanical ideas.
+
+Programming
+We used math blocks to program the robot.
+We used Myblocks to organize our code.
+We repurposed code for other missions.
+We reused code blocks to make us more efficient. One example is the drive straight program using math blocks.
+We used Myblocks to encapsulate the code.
+We had contingency planning.
+We changed the type of bricks to make the jig more secure. 
+
+Robot Kinematics
+We used a curved turn to move ourselves to the flower.
+Most of our attachments are actuated though we have two passive systems.
+We currently use LEGO Mindstorm wheels though we considered LEGO motorcycle wheels.
+We have three types of turns, pivot, right angle, and arcing turns.
+
+Questions From FLL/ORTOP
+
+Explain how the robot moves around the board and describe how the parts work together to make it move.
+The team uses rotational sensors and math blocks to measure distances during navigation. We use the ultrasonic sensor to measure position for the Fountain, Flow, and Flower missions; we use jigs to position the robot in space.
+
+How many attachments did your team build for your robot?
+Five: one side guide for Flow mission; one actuated attachment for flow;  one fixed pusher/puller arm; one actuated fork; one fixed well dragger                       
+                                                     
+How many and what type of sensors does your robot use?
+2: Rotational Sensor; Ultrasonic Sensor                
+                                                     
+Did you program the robot using NXT(software with kit) or Robolab?
+We used the Lego Mindstorms EV3 software.                
+                                                     
+How many programs are stored in the EV3 brick?
+Four
+                                                     
+How consistent are the programs (always successful, mostly successful, sometimes successful)
+Mostly successful.                        
+                                                     
+How many of the 18 missions can your robot attempt to complete?
+Eight             
+                                                     
+Are there any features of your robot that you feel are special, different or clever?
+Casters on the side to make the robot go smoother along the wall, well dragging attachment; push / pull arm
